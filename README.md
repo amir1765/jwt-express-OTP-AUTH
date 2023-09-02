@@ -1,2 +1,4 @@
 # jwt-express-OTP-AUTH
-its a simple otp auth with jwt cookie based session and jwt is stored in data base for further action
+well this is a open repastory for express OTP Auth 
+i hope it will be usefull 
+thx amir H2O
